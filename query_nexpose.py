@@ -1,7 +1,4 @@
 # pylint: disable=missing-docstring
-# https://help.rapid7.com/insightvm/en-us/api/index.html#operation/findAssets
-# https://help.rapid7.com/insightvm/en-us/api/index.html#section/Overview/Responses
-# https://help.rapid7.com/insightvm/en-us/api/index.html#operation/getAssetTags
 
 
 import argparse
