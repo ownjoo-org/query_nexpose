@@ -22,3 +22,8 @@ options:
 
 # example: look up host with vulnerability details
 `python3 query_nexpose.py --domain my.nexpose.domain.tld --username blah --password blah --hostname abc123 --list-tags`
+
+# references: 
+https://help.rapid7.com/insightvm/en-us/api/index.html#operation/findAssets
+https://help.rapid7.com/insightvm/en-us/api/index.html#section/Overview/Responses
+https://help.rapid7.com/insightvm/en-us/api/index.html#operation/getAssetTags
